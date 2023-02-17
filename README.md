@@ -1,6 +1,6 @@
 # Linear-Regression-Modelling
 ## This dataset includes these feature:
-### Car_Name: Name of the cars
+#### Car_Name: Name of the cars
 #### Year: Year of the car when it was bought
 #### Sellling_Price: Price at which the car is being sold
 #### Kms_Driven: Number of kilometers the car is driven
